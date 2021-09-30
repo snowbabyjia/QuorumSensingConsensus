@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Zhao
+    given-names: Jiajia
+  -
+    family-names: Su
+    given-names: Lili
+  -
+    family-names: Lynch
+    given-names: Nancy
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+...
